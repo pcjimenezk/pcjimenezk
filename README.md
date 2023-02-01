@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Citlally
-- 👀 I’m interested in the use of technology to improve how instructors teach and how students learn science
-- 🌱 I’m currently learning usage data analysis
-- 💞️ I’m looking to collaborate on projects that help teachers structure courses that enhance student learning
+- 👋 Hi, I’m Citlally (pronounced: Sit-lolli)
+- 👀 I’m interested in the use of technology to improve how students learn
+- 🌱 I’m currently learning data engineering
+- 💞️ I’m looking to collaborate on projects that enhance student learning, online and in-person
 - 📫 How to reach me: pcjimenezk@gmail.com
 
 <!---
