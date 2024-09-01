@@ -1,7 +1,7 @@
-- 👋 Howdy! I’m Citlally (pronounced: Sit-lolli)
-- 👀 I’m interested in helping people learn how to learn
-- 🌱 I’m currently learning data analysis in Javascript
-- 💞️ I’m looking to collaborate on projects that enhance learning in multiple contexts
+- 👋 Howdy! I’m Citlally (pronounced: Sit-laly)
+- 👀 I'm a user-centered mixed-methods researcher specialized in helping people learn and use complex information to make decisions.
+- 🌱 I’m currently learning data analysis in Javascript and Python.
+- 💞️ I’m looking to collaborate on projects that involve AI for education, mixed-methods research, and data-driven decision-making. 
 - 📫 Chat with me at pcjimenezk@gmail.com
 
 <!---
